@@ -70,7 +70,7 @@ function getStyles(props, context, state) {
       position: 'relative'
     },
     buttonState: {
-      backgroundColor: datePicker.selectColor,
+      backgroundColor: "#FFCA28",
       borderRadius: '50%',
       height: 34,
       left: 4,
