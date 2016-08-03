@@ -296,7 +296,8 @@ var Calendar = function (_Component) {
           width: isLandscape ? 125 : 270,
           height: isLandscape ? 290 : 'auto',
           float: isLandscape ? 'left' : 'none',
-          fontWeight: 'bolder'
+          fontWeight: 'bolder',
+          backgroundColor: '#FF8F00',
         },
         weekTitle: {
           display: 'flex',
