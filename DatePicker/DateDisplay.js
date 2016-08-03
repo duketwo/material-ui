@@ -43,7 +43,7 @@ function getStyles(props, context, state) {
       float: isLandscape ? 'left' : 'none',
       fontWeight: 700,
       display: 'inline-block',
-      backgroundColor: datePicker.selectColor,
+      backgroundColor: '#FF8F00',
       borderTopLeftRadius: 2,
       borderTopRightRadius: isLandscape ? 0 : 2,
       borderBottomLeftRadius: isLandscape ? 2 : 0,
